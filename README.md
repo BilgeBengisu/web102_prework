@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/CodePath.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="/Users/bilgebengisu/Documents/GitHub/web102_prework/assets/CodePath.mov" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
