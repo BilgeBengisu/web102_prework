@@ -22,7 +22,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![CodePath](https://github.com/user-attachments/assets/1c2415d7-2b16-486e-a9f4-f2a7a31d1d08)
+
+![CodePath (2)](https://github.com/user-attachments/assets/94ca7965-9eaa-4592-b97d-a2c1b38ef8e9)
+
 
 
 ## Notes
