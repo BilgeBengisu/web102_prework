@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src="/Users/bilgebengisu/Documents/GitHub/web102_prework/assets/CodePath.mov" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![CodePath](https://github.com/user-attachments/assets/1c2415d7-2b16-486e-a9f4-f2a7a31d1d08)
 
 
 ## Notes
